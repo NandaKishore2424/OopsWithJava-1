@@ -1,5 +1,7 @@
 # EX.NO 1: Program to Display Employee In-Date in Day/Month/Year Format
-## DATE: 
+## DATE:
+## Name: Nanda Kishore R
+## Reg.no: 212222060157
 ## AIM:
 
 To write a Java program that takes input from the user for day, month, and year of an employee's in-date and display it in the format day/month/year using a Clock class and a Test class.
